@@ -1,0 +1,16 @@
+# Ignore model weights and results
+*.pt
+*.pkl
+*.mp4
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter stuff (if any)
+.ipynb_checkpoints/
