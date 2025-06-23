@@ -1,0 +1,9 @@
+ultralytics==8.1.33         # YOLOv8 detection
+torch>=1.13.0               # PyTorch backend for model & ResNet
+torchvision                 # For using ResNet feature extraction
+numpy                       # Feature vectors and array operations
+opencv-python               # Video & image processing
+matplotlib                  # Side-by-side player image comparison
+scikit-learn                # Cosine similarity for player matching
+Pillow                      # Image handling (if needed)
+tqdm                        # Progress bars during feature extraction
